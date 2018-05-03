@@ -29,16 +29,17 @@ body {
   flex-direction: row;
 }
 
-#main section {
-  width: 66.6666%;
-  padding-right: 35px;
-}
-
 #sidebar {
   width: 33.33333%;
   margin-top: 108px;
   color: #888;
 }
+
+#main section {
+  width: 66.6666%;
+  padding-right: 35px;
+}
+
 
 .wrapper {
   width: 1080px;
